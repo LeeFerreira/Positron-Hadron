@@ -1,4 +1,4 @@
-https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml
+![Positron: Bazzite](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml/badge.svg)
 
 # Positron Computers System
 
