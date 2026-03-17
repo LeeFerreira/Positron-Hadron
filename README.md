@@ -6,6 +6,7 @@ There's no real significane to the name "Positron Computers". It just kinda soun
 
 ## Base Image
 - Currently up to date with Fedora 43
+- - Using Universal Blue's [Bazzite](https://bazzite.gg/) image
 - KDE Plasma for its customisability
 - AMD/Intel GPUs **only**
 - - you're more than welcome to fork for NVIDIA GPUs, i just don't use NVIDIA
