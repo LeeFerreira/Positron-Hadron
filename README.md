@@ -24,3 +24,4 @@ This little pet project would not be possible without:
 - [the Universal Blue Forums](https://universal-blue.discourse.group/)
 - [the Universal Blue Discord](https://discord.gg/WEu6BdFEtp)
 - [the Universal Blue image template examples](https://github.com/ublue-os/image-template?tab=readme-ov-file#community-examples)
+- My sister for designing the logo and banner
