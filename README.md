@@ -6,7 +6,7 @@
 A modified Bazzite Plasma image suited for my personal needs. This image will be expanded upon later and is currently just a little test for me.
 
 ## Base Image
-- Currently up to date with Fedora 43
+- Currently up to date with Fedora 44
 - - Using Universal Blue's [Bazzite](https://bazzite.gg/) image
 - - KDE Plasma for its customisability
 - AMD/Intel GPUs **only**
