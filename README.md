@@ -14,6 +14,8 @@ A modified Bazzite Plasma image suited for my personal needs. This image will be
 
 ### Additional Features
 - [Kvantum](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) preinstalled
+- PortAudio (subject to change)
+- googlenotofontsall because for some reason fancy fonts/other languages aren't working
 - that's it for now
 
 ### Planned Features
