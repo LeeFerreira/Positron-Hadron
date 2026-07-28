@@ -7,6 +7,7 @@ set -ouex pipefail
 # this installs a package from fedora repos
 dnf install -y kvantum
 dnf install -y portaudio
+dnf install -y google-noto-fonts-all
 
 # Use a COPR Example:
 #
