@@ -18,7 +18,7 @@ dnf install -y google-noto-fonts-all
 
 # Install Mullvad repository then enable it only for installing Mullvad VPN
 dnf config-manager addrepo --from-repofile=https://repository.mullvad.net/rpm/stable/mullvad.repo
-dnf config-manager --set-disabled "mullvad-stable"
+dnf config-manager --disable "mullvad-stable"
 dnf -y --enablerepo="mullvad-stable" install mullvad-vpn
 
 #### Example for enabling a System Unit File
