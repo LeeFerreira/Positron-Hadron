@@ -16,9 +16,8 @@ dnf install -y google-noto-fonts-all
 # Disable COPRs so they don't end up enabled on the final image:
 # dnf5 -y copr disable ublue-os/staging
 
-# Install Mullvad repository then enable it only for installing Mullvad VPN
+# Install Mullvad repository
 dnf config-manager addrepo --from-repofile=https://repository.mullvad.net/rpm/stable/mullvad.repo
-dnf config-manager --disable "mullvad-stable"
 dnf -y --enablerepo="mullvad-stable" install mullvad-vpn
 
 #### Example for enabling a System Unit File
